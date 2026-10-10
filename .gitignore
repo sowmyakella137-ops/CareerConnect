@@ -37,3 +37,7 @@ uploads/
 # Local Spring Boot configuration containing credentials
 backend/src/main/resources/application.properties
 backend/src/main/resources/application-local.properties
+
+# Local test resume files
+backend/test-resume.pdf
+backend/test-resume.txt
