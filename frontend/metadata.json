@@ -1,0 +1,6 @@
+{
+  "name": "CareerConnect",
+  "description": "Student networking and internship platform connecting students, companies, and university administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
